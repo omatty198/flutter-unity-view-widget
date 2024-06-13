@@ -34,7 +34,7 @@ apply plugin: 'kotlin-android'
 
 android {
     if (project.android.hasProperty("namespace")) {
-        namespace "com.xraph.plugin.flutter_unity_widget_example"
+        namespace "com.xraph.plugin.flutter_unity_widget"
     }
     compileSdkVersion 29
 
